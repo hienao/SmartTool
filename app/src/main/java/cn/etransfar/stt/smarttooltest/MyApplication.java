@@ -7,9 +7,8 @@ import com.transfar.smarttoolui.core.SmartToolCore;
 /**
  * Title: MyApplication <br>
  * Description: <br>
- * Copyright (c) 传化物流版权所有 2017 <br>
  * Created DateTime: 2017-1-13 12:19
- * Created by Wentao.Shi.
+ * Created by 
  */
 public class MyApplication extends Application {
     @Override
